@@ -1,3 +1,4 @@
 * npx create-react-app .  --template typescript
 * npm install @reduxjs/toolkit react-redux @types/react-redux
 * init reducer and make file structure for redux store
+* simple example with user count increment
