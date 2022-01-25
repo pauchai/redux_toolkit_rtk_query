@@ -5,3 +5,4 @@
 * example with async fetching data
 * simplefy preview example with redux toolkt
 * example with RTK query
+* RTK query mutations - create (npm install -g json-server; json-server --watch db.json --port 5000)
